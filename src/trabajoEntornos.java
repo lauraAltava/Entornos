@@ -22,6 +22,9 @@ public class trabajoEntornos {
         imprime(listaNumeros);
     }
 
+    /**
+     * @param vector Aqui imprimimos todos
+     */
     private static void imprimeTodos(int[] vector) {
         for (int i = 0; i < vector.length; i++) {
             if (i % 10 == 0) System.out.println();
