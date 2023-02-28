@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class trabajoEntornos {
     /**
-     * @param args Aqui entrada de datos y salida
+     *  //Este programa nos saca los primos//
      */
     //Este programa nos saca los primos//
     public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class trabajoEntornos {
     }
 
     /**
-     * @param vector Aqui imprimimos todos
+     *  //Este programa nos saca los primos//
      */
     private static void imprimeTodos(int[] vector) {
         for (int i = 0; i < vector.length; i++) {
