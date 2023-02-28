@@ -2,6 +2,9 @@
 //@autor Laura Altava
 import java.util.Scanner;
 
+/**
+ *  //Este programa nos saca los primos//
+ */
 public class trabajoEntornos {
     //Este programa nos saca los primos//
     public static void main(String[] args) {
