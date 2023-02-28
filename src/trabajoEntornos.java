@@ -6,6 +6,9 @@ import java.util.Scanner;
  *  //Este programa nos saca los primos//
  */
 public class trabajoEntornos {
+    /**
+     * @param args Aqui entrada de datos y salida
+     */
     //Este programa nos saca los primos//
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
