@@ -1,6 +1,9 @@
+
+//@autor Laura Altava
 import java.util.Scanner;
 
 public class trabajoEntornos {
+    //Este programa nos saca los primos//
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Introduce el número para la criba de Erastótenes:");
